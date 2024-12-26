@@ -154,7 +154,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows
 
 
 <img
-  align="left"
+  align="right"
   alt="GitHub Stats"
   height="200"
   style="padding-right: 10px;"
