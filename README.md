@@ -134,13 +134,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows
 ### 📊 Estatísticas 
 
 <p>
+<!--
 <img
   align="left"
   alt="GitHub Stats" 
   width="425"
   style="padding-rigth: 10px;"
   src="https://streak-stats.demolab.com/?user=costaamarcos&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=prussian&locale=pt-br" alt="GitHub Streak"
-/>
+/>-->
 
 <img
   align="left"
@@ -149,13 +150,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows
   style="padding-rigth: 10px;padding-left: 20px;"
   src="https://github-readme-stats.vercel.app/api?username=costaamarcos&show_icons=true&theme=prussian&locale=pt-br" alt="Anurag's GitHub stats">
 
-<!--
+
 <img
   align="down"
   alt="GitHub Stats"
   height="180"
   style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=costaamarcos&theme=prussian&locale=pt-br"> -->
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=costaamarcos&theme=prussian&locale=pt-br"> 
 
 
 
