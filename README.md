@@ -149,16 +149,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows
   style="padding-rigth: 10px;"
   src="https://github-readme-stats.vercel.app/api?username=costaamarcos&show_icons=true&theme=prussian&locale=pt-br" alt="Anurag's GitHub stats">
 
-
+<!--
 <img
   align="down"
   alt="GitHub Stats"
   height="180"
   style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=costaamarcos&theme=prussian&locale=pt-br">
-
-
-
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=costaamarcos&theme=prussian&locale=pt-br"> -->
 
 
 
