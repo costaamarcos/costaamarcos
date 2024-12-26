@@ -148,15 +148,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows
 <img
   align="left"
   alt="GitHub Stats"  
-  height="200"
+  height="100"
   style="padding-rigth: 10px;"
   src="https://github-readme-stats.vercel.app/api?username=costaamarcos&show_icons=true&theme=prussian&locale=pt-br" alt="Anurag's GitHub stats">
 
 
 <img
-  align="right"
+  align="left"
   alt="GitHub Stats"
-  height="200"
+  height="100"
   style="padding-right: 10px;"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=costaamarcos&theme=prussian&locale=pt-br"> 
 
