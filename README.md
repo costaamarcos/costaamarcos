@@ -146,7 +146,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows
 <img
   align="left"
   alt="GitHub Stats"  
-  width="400"
+  height="200"
   style="padding-rigth: 10px;padding-left: 20px;"
   src="https://github-readme-stats.vercel.app/api?username=costaamarcos&show_icons=true&theme=prussian&locale=pt-br" alt="Anurag's GitHub stats">
 
@@ -154,7 +154,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows
 <img
   align="down"
   alt="GitHub Stats"
-  height="180"
+  height="200"
   style="padding-right: 10px;"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=costaamarcos&theme=prussian&locale=pt-br"> 
 
