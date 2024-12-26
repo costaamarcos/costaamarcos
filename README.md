@@ -1,7 +1,7 @@
 # 🧑‍💻 <font color="green">Marcos Costa</font>
 <br/>
 
-<font color="yellow">**Estudante da Aŕea de Dados**</font>
+<font color="yellow">**Estudante da Área de Dados**</font>
 <br/>
 
 
