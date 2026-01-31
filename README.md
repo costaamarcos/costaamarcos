@@ -9,7 +9,7 @@
 ![ADS](https://img.shields.io/badge/ADS-Graduado-blue?style=for-the-badge) &nbsp; &nbsp; ![Engenharia de Software](https://img.shields.io/badge/Engenharia_de_Software-Em_Andamento-E34F26?style=for-the-badge)
 
 ### 🛠️ Atuação & Ferramentas
-![TOTVS](https://img.shields.io/badge/TOTVS-Suporte_Protheus-004A99?style=for-the-badge) &nbsp; &nbsp; ![SQL](https://img.shields.io/badge/SQL-Queries_e_Extração-00758F?style=for-the-badge&logo=mysql&logoColor=white) &nbsp; &nbsp; ![Python](https://img.shields.io/badge/Python-Automação-3776AB?style=for-the-badge&logo=python&logoColor=white) &nbsp; &nbsp; ![Processos](https://img.shields.io/badge/Processos-Análise-333333?style=for-the-badge)
+![TOTVS](https://img.shields.io/badge/TOTVS-Suporte_Protheus-004A99?style=for-the-badge&logo=target&logoColor=white) &nbsp; &nbsp; &nbsp; &nbsp; ![SQL](https://img.shields.io/badge/SQL-Queries_e_Extração-00758F?style=for-the-badge&logo=mysql&logoColor=white) &nbsp; &nbsp; ![Python](https://img.shields.io/badge/Python-Automação-3776AB?style=for-the-badge&logo=python&logoColor=white) &nbsp; &nbsp; ![Processos](https://img.shields.io/badge/Processos-Análise-333333?style=for-the-badge)
 
 ### 📊 Foco Atual
 - **Suporte Protheus:** Análise de regras de negócio e atendimento técnico especializado.
