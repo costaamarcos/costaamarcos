@@ -5,8 +5,8 @@
 <br/>
 
 
-Me chamo Marcos Estevão Alves da Costa, tenho 28 anos e sou natural de Ubá, Minas Gerais.
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas e Engenharia de Software. Sou apaixonado por tecnologia desde muito novo e mais recentemente decidi focar nesse universo. Venho compartilhando meus estudos tanto aqui no GITHUB como no instagram com o perfil **[Analityko](https://www.instagram.com/analityko/profilecard/?igsh=M29lYjZxZ3doYXZp)**, onde posto sobre meu apredizado e projetos na área de dados.
+Me chamo Marcos Estevão Alves da Costa, tenho 29 anos e sou natural de Ubá, Minas Gerais.
+Sou formado em Análise e Desenvolvimento de Sistemas e estou terminadno minha segunda graduação em Engenharia de Software. Sou apaixonado por tecnologia desde muito novo e mais recentemente decidi focar nesse universo. 
 
 <p align="left">
     <a href="https://www.google.com.br/maps/place/Juiz+de+Fora,+MG/@-21.728879,-43.464922,12z/data=!3m1!4b1!4m6!3m5!1s0x989c43e1f85da1:0x6236b026b3a0a468!8m2!3d-21.7623932!4d-43.3434669!16zL20vMDNsZzRm?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D">
@@ -14,7 +14,7 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas e Engenharia de
             alt="Localização" 
             title="Localização" 
             src="https://custom-icon-badges.demolab.com/badge/Brasil-MG-green?style=for-the-badge&logo=location&logoColor=white"/></a>                        
-    <a href="mailto:marcoss.analytics@gmail.com">
+    <a href="mailto:marcoss.engineer@gmail.com">
         <img 
             alt="email" 
             title="email" 
@@ -122,43 +122,9 @@ alt="Python"
 title="PYTHON"
 width="50px" 
 style="padding-left: 20px;"          
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
-      
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />   
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-
-### 📊 Estatísticas 
-
-<p>
-
-<!--
-<img
-  align="left"
-  alt="GitHub Stats" 
-  width="425"
-  style="padding-rigth: 10px;"
-  src="https://streak-stats.demolab.com/?user=costaamarcos&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=prussian&locale=pt-br" alt="GitHub Streak"
-/>
--->
-
-<img
-  align="left"
-  alt="GitHub Stats"  
-  height="150"
-  style="padding-rigth: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=costaamarcos&show_icons=true&theme=prussian&locale=pt-br" alt="Anurag's GitHub stats">
 
 
-<img
-  align="left"
-  alt="GitHub Stats"
-  height="150"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=costaamarcos&theme=prussian&locale=pt-br"> 
 
-
-</p>
