@@ -6,22 +6,18 @@
 
 
 ### 🎓 Formação
-![ADS](https://img.shields.io/badge/ADS-Graduado-blue?style=flat)
-![Engenharia de Software](https://img.shields.io/badge/Engenharia_de_Software-Em_Andamento-E34F26?style=flat)
+![ADS](https://img.shields.io/badge/ADS-Graduado-blue?style=for-the-badge) &nbsp; &nbsp; ![Engenharia de Software](https://img.shields.io/badge/Engenharia_de_Software-Em_Andamento-E34F26?style=for-the-badge)
 
 ### 🛠️ Atuação & Ferramentas
-![TOTVS](https://img.shields.io/badge/TOTVS-Suporte_Protheus-004A99?style=flat)
-![SQL](https://img.shields.io/badge/SQL-Queries_e_Extração-00758F?style=flat&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Automação-3776AB?style=flat&logo=python&logoColor=white)
-![Processos](https://img.shields.io/badge/Processos-Requisitos_e_Suporte-333333?style=flat)
+![TOTVS](https://img.shields.io/badge/TOTVS-Suporte_Protheus-004A99?style=for-the-badge) &nbsp; &nbsp; ![SQL](https://img.shields.io/badge/SQL-Queries_e_Extração-00758F?style=for-the-badge&logo=mysql&logoColor=white) &nbsp; &nbsp; ![Python](https://img.shields.io/badge/Python-Automação-3776AB?style=for-the-badge&logo=python&logoColor=white) &nbsp; &nbsp; ![Processos](https://img.shields.io/badge/Processos-Análise-333333?style=for-the-badge)
 
 ### 📊 Foco Atual
-- **SQL:** Performance em bancos ERP.
-- **Python:** Automação de processos e dados.
-- **Engenharia:** Arquitetura e soluções escaláveis.
+- **Suporte Protheus:** Análise de regras de negócio e atendimento técnico especializado.
+- **Engenharia de Software:** Arquitetura de sistemas e soluções escaláveis.
+- **Dados:** Extração via SQL e automação com Python.
+
 
 📫 Contato
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-costa-913637185/)
 
 <p align="left">
