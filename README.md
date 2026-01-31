@@ -7,21 +7,21 @@
 
 🎓 Formação & Carreira
 
-![ADS](https://img.shields.io/badge/ADS-Graduado-blue?style=for-the-badge&logo=education&logoColor=white)Formado em ADS** (Análise e Desenvolvimento de Sistemas).
+![ADS](https://img.shields.io/badge/ADS-Graduado-blue?style=flat)Formado em ADS** (Análise e Desenvolvimento de Sistemas).
 
-![Engenharia de Software](https://img.shields.io/badge/Engenharia_de_Software-E34F26?style=for-the-badge&logo=software-architecture&logoColor=white)Graduando em Engenharia de Software** (Segunda graduação).
+![Engenharia de Software](https://img.shields.io/badge/Engenharia_de_Software-Em_Andamento-E34F26?style=flat)Graduando em Engenharia de Software** (Segunda graduação).
 
 
 
 🛠️ Tecnologias e Ferramentas
 
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)SQL (Queries, extração e manipulação), 
+![SQL](https://img.shields.io/badge/SQL-00758F?style=flat&logo=mysql&logoColor=white)SQL (Queries, extração e manipulação), 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)Python (Automação e Análise).
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)Python (Automação e Análise).
 
-![ERP Protheus](https://img.shields.io/badge/ERP_Protheus-004A99?style=for-the-badge&logo=totvs&logoColor=white)Suporte ao ERP TOTVS Protheus.
+![TOTVS](https://img.shields.io/badge/TOTVS-004A99?style=flat).Suporte ao ERP TOTVS Protheus.
 
-![Processos](https://img.shields.io/badge/PROCESSOS-333333?style=for-the-badge&logo=gear&logoColor=white)Levantamento de requisitos e suporte técnico especializado.
+![Processos](https://img.shields.io/badge/Processos-333333?style=flat)Levantamento de requisitos e suporte técnico especializado.
 
 
 📊 Foco Atual
@@ -31,7 +31,7 @@ Engenharia: Arquitetura de sistemas e soluções escaláveis.
 
 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-costa-913637185/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-costa-913637185/)
 
 <p align="left">
     <a href="https://www.google.com.br/maps/place/Juiz+de+Fora,+MG/@-21.728879,-43.464922,12z/data=!3m1!4b1!4m6!3m5!1s0x989c43e1f85da1:0x6236b026b3a0a468!8m2!3d-21.7623932!4d-43.3434669!16zL20vMDNsZzRm?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D">
