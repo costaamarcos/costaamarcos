@@ -5,29 +5,20 @@
 <br/>
 
 
-🎓 Formação & Carreira
+### 🎓 Formação
+![ADS](https://img.shields.io/badge/ADS-Graduado-blue?style=flat)
+![Engenharia de Software](https://img.shields.io/badge/Engenharia_de_Software-Em_Andamento-E34F26?style=flat)
 
-![ADS](https://img.shields.io/badge/ADS-Graduado-blue?style=flat)Formado em ADS** (Análise e Desenvolvimento de Sistemas).
+### 🛠️ Atuação & Ferramentas
+![TOTVS](https://img.shields.io/badge/TOTVS-Suporte_Protheus-004A99?style=flat)
+![SQL](https://img.shields.io/badge/SQL-Queries_e_Extração-00758F?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Automação-3776AB?style=flat&logo=python&logoColor=white)
+![Processos](https://img.shields.io/badge/Processos-Requisitos_e_Suporte-333333?style=flat)
 
-![Engenharia de Software](https://img.shields.io/badge/Engenharia_de_Software-Em_Andamento-E34F26?style=flat)Graduando em Engenharia de Software** (Segunda graduação).
-
-
-
-🛠️ Tecnologias e Ferramentas
-
-![SQL](https://img.shields.io/badge/SQL-00758F?style=flat&logo=mysql&logoColor=white)SQL (Queries, extração e manipulação), 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)Python (Automação e Análise).
-
-![TOTVS](https://img.shields.io/badge/TOTVS-004A99?style=flat).Suporte ao ERP TOTVS Protheus.
-
-![Processos](https://img.shields.io/badge/Processos-333333?style=flat)Levantamento de requisitos e suporte técnico especializado.
-
-
-📊 Foco Atual
-SQL: Performance e extração de dados complexos em bancos ERP.
-Python: Automação de processos e manipulação de dados.
-Engenharia: Arquitetura de sistemas e soluções escaláveis.
+### 📊 Foco Atual
+- **SQL:** Performance em bancos ERP.
+- **Python:** Automação de processos e dados.
+- **Engenharia:** Arquitetura e soluções escaláveis.
 
 📫 Contato
 
