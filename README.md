@@ -6,15 +6,23 @@
 
 
 🎓 Formação & Carreira
+
 ![ADS](https://img.shields.io/badge/ADS-Graduado-blue?style=for-the-badge&logo=education&logoColor=white)Formado em ADS** (Análise e Desenvolvimento de Sistemas).
+
 ![Engenharia de Software](https://img.shields.io/badge/Engenharia_de_Software-E34F26?style=for-the-badge&logo=software-architecture&logoColor=white)Graduando em Engenharia de Software** (Segunda graduação).
 
 
-### 🛠️ Tecnologias e Ferramentas
+
+🛠️ Tecnologias e Ferramentas
+
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)SQL (Queries, extração e manipulação), 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)Python (Automação e Análise).
+
 ![ERP Protheus](https://img.shields.io/badge/ERP_Protheus-004A99?style=for-the-badge&logo=totvs&logoColor=white)Suporte ao ERP TOTVS Protheus.
+
 ![Processos](https://img.shields.io/badge/PROCESSOS-333333?style=for-the-badge&logo=gear&logoColor=white)Levantamento de requisitos e suporte técnico especializado.
+
 
 📊 Foco Atual
 SQL: Performance e extração de dados complexos em bancos ERP.
@@ -22,6 +30,7 @@ Python: Automação de processos e manipulação de dados.
 Engenharia: Arquitetura de sistemas e soluções escaláveis.
 
 📫 Contato
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-costa-913637185/)
 
 <p align="left">
