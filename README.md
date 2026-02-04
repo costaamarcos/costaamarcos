@@ -1,144 +1,66 @@
-# 🧑‍💻 <font color="green">Marcos Costa</font>
-<br/>
+<div align="center">
+  <h1>🧑‍💻 Marcos Costa</h1>
+  <h2 style="margin-top: -10px; color: #58a6ff;">Analista de Dados & Sistemas</h2>
+  <p>Foco em Engenharia de Dados, Automação e Ecossistema TOTVS Protheus</p>
 
-<font color="yellow">**Estudante da Área de Dados**</font>
-<br/>
-
-
-### 🎓 Formação
-![ADS](https://img.shields.io/badge/ADS-Graduado-blue?style=for-the-badge) &nbsp; &nbsp; ![Engenharia de Software](https://img.shields.io/badge/Engenharia_de_Software-Em_Andamento-E34F26?style=for-the-badge)
-
-### 🛠️ Atuação & Ferramentas
-![TOTVS](https://img.shields.io/badge/TOTVS-004A99?style=for-the-badge&logo=totvs&logoColor=white)![Suporte Protheus](https://img.shields.io/badge/Suporte_Protheus-0056b3?style=for-the-badge)&nbsp; &nbsp; &nbsp; &nbsp; ![SQL](https://img.shields.io/badge/SQL-Queries_e_Extração-00758F?style=for-the-badge&logo=mysql&logoColor=white) &nbsp; &nbsp; ![Python](https://img.shields.io/badge/Python-Automação-3776AB?style=for-the-badge&logo=python&logoColor=white) &nbsp; &nbsp; ![Processos](https://img.shields.io/badge/Processos-Análise-333333?style=for-the-badge)
-
-### 📊 Foco Atual
-- **Suporte Protheus:** Análise de regras de negócio e atendimento técnico especializado.
-- **Engenharia de Software:** Arquitetura de sistemas e soluções escaláveis.
-- **Dados:** Extração via SQL e automação com Python.
-
-
-📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-costa-913637185/)
-
-<p align="left">
-    <a href="https://www.google.com.br/maps/place/Juiz+de+Fora,+MG/@-21.728879,-43.464922,12z/data=!3m1!4b1!4m6!3m5!1s0x989c43e1f85da1:0x6236b026b3a0a468!8m2!3d-21.7623932!4d-43.3434669!16zL20vMDNsZzRm?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D">
-        <img 
-            alt="Localização" 
-            title="Localização" 
-            src="https://custom-icon-badges.demolab.com/badge/Brasil-MG-green?style=for-the-badge&logo=location&logoColor=white"/></a>                        
-    <a href="mailto:marcoss.engineer@gmail.com">
-        <img 
-            alt="email" 
-            title="email" 
-            src="https://custom-icon-badges.demolab.com/badge/-Meu Email-red?style=for-the-badge&logo=mail&logoColor=white"/></a> 
-        <a href="https://github.com/costaamarcos?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/costaamarcos?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/costaamarcos?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/costaamarcos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
----
-<br/>
-
-### 💻 Tecnologias e Linguagens     
-
-
-<img
-align="left"
-alt="Python"
-title="PYTHON"
-width="50px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-<img
-align="left"
-alt="Python"
-title="PYTHON"
-width="50px" 
-style="padding-left: 20px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />  
-
-<img
-align="left"
-alt="Python"
-title="PYTHON"
-width="50px"
-style="padding-left: 20px;"
-src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000"/>
-
-<img
-align="left"
-alt="Python"
-title="PYTHON"
-width="50px"
-style="padding-left: 20px;"
-src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000"/>
-
-
-<img
-align="left"
-alt="Python"
-title="PYTHON"
-width="50px" 
-style="padding-left: 20px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-          
+  <p>
     
-<img
-align="left"
-alt="Python"
-title="PYTHON"
-width="50px" 
-style="padding-left: 20px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+  </p>
+</div>
 
-<img
-align="left"
-alt="Python"
-title="PYTHON"
-width="50px" 
-style="padding-left: 20px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"/>
+---
 
-<img
-align="left"
-alt="Python"
-title="PYTHON"
-width="50px" 
-style="padding-left: 20px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+## 🎓 Formação Acadêmica
 
-<img
-align="left"
-alt="Python"
-title="PYTHON"
-width="50px" 
-style="padding-left: 20px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"/>
-          
-          
-<img
-align="left"
-alt="Python"
-title="PYTHON"
-width="50px" 
-style="padding-left: 20px;"          
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />   
+* <font size="4">🎓 **Graduado:** Análise e Desenvolvimento de Sistemas</font>
+* <font size="4">📚 **Cursando:** Engenharia de Software</font>
 
+---
 
+## 🚀 Especialidades & Foco Profissional
 
+### **1. Engenharia de Dados & Automação**
+> Construção de pipelines de dados (ETL) e scripts de automação utilizando **Python** e **SQL**. Foco na otimização de rotinas e tratamento avançado de dados via **Excel**.
+>
+> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/ETL_Pipelines-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 
+### **2. SQL Specialist & Analytics**
+> Transformação de dados brutos em inteligência de negócio. Criação de consultas complexas (SQL Server) e dashboards estratégicos no **Power BI** e **Excel** para tomada de decisão.
+>
+> <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Data_Intelligence-0056b3?style=for-the-badge" />
 
+### **3. Sistemas ERP (TOTVS Protheus)**
+> Suporte especializado e análise sistêmica no **TOTVS Protheus**. Atuação direta no levantamento de requisitos, regras de negócio e mapeamento de processos internos.
+>
+> <img src="https://img.shields.io/badge/TOTVS_Protheus-004A99?style=for-the-badge&logo=totvs&logoColor=white" /> <img src="https://img.shields.io/badge/Regras_de_Negócio-333333?style=for-the-badge" />
 
+---
 
+## 💻 Tech Stack e Ferramentas
+
+<div align="left">
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right: 10px;" />
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="padding-right: 10px;" />
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="padding-right: 10px;" />
+  <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right: 10px;"/>
+  <img align="center" alt="PyCharm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" style="padding-right: 10px;"/>
+  <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right: 10px;"/>
+  <img align="center" alt="Ubuntu" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" style="padding-right: 10px;"/>
+  <img align="center" alt="Windows" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" style="padding-right: 10px;" />
+</div>
+
+<br>
+
+### 📍 Localização & Contato
+
+<div align="left">
+  <a href="https://www.google.com.br/maps/place/Juiz+de+Fora,+MG" target="_blank">
+    <img src="https://img.shields.io/badge/Brasil-Juiz_de_Fora_/_MG-009c3b?style=for-the-badge&logo=google-maps&logoColor=009c3b&labelColor=fedf00" />
+  </a>
+  <a href="https://www.linkedin.com/in/marcos-costa-913637185/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:marcoss.engineer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
