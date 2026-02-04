@@ -49,6 +49,7 @@
   <img align="center" alt="Windows" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" style="padding-right: 10px;" />
 </div>
 
+---
 
 ### 📍 Localização & Contato
 
