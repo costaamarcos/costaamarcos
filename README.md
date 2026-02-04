@@ -49,12 +49,6 @@
   <img align="center" alt="Windows" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" style="padding-right: 10px;" />
 </div>
 
-## 📈 Estatísticas
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=costaamarcos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costaamarcos&layout=compact&theme=dark"/>
-</div>
-<br>
 
 ### 📍 Localização & Contato
 
